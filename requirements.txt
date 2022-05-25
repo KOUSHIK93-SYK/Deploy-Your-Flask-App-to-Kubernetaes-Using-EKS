@@ -11,7 +11,7 @@ packaging==20.3
 pluggy==0.13.1
 pytest==5.4.1
 py==1.8.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyparsing==2.4.6
 six==1.14.0
 typing==3.7.4.1
